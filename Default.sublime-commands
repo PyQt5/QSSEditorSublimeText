@@ -1,0 +1,5 @@
+[
+    {   "caption": "Apply Style",
+        "command": "qss_apply_style"
+    }
+]
