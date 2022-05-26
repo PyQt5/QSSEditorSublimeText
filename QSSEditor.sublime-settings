@@ -1,4 +1,5 @@
 {
 	"auto_apply": true,
-	"server_port": 61052
+	"server_port": 61052,
+	"debug_level": "INFO"
 }

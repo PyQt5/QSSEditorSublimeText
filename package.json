@@ -1,0 +1,30 @@
+{
+    "name": "qsseditor",
+    "version": "1.0.0",
+    "description": "QSSEditor plugin for Qt Designer",
+    "author": "Irony",
+    "repository": "PyQt5/QSSEditorSublimeText",
+    "keywords": [
+        "sublime",
+        "sublimetext",
+        "plugin",
+        "qss",
+        "qt",
+        "style",
+        "stylesheet",
+        "css"
+    ],
+    "files": [
+        "*.md",
+        "Context.sublime-menu",
+        "Default.sublime-commands",
+        "QSSEditor.sublime-completions",
+        "QSSEditor.sublime-settings",
+        "JQSSEditor_plugin.py",
+        "qsseditor/**"
+    ],
+    "bugs": {
+        "url": "https://github.com/PyQt5/QSSEditorSublimeText/issues"
+    },
+    "homepage": "https://github.com/PyQt5/QSSEditorSublimeText"
+}
