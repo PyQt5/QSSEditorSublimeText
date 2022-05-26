@@ -1,225 +1,375 @@
 {
     "scope": [
-        "source.css", "meta.selector.css", "entity.name.tag.html.css"
+        "source.css",
+        "meta.selector.css",
+        "entity.name.tag.html.css",
+        "source.qss"
     ],
-    "completions": [{
-        "contents": "QAbstractButton",
-        "trigger": "QAbstractButton"
-    }, {
-        "contents": "QAbstractItemView",
-        "trigger": "QAbstractItemView"
-    }, {
-        "contents": "QAbstractScrollArea",
-        "trigger": "QAbstractScrollArea"
-    }, {
-        "contents": "QAbstractSlider",
-        "trigger": "QAbstractSlider"
-    }, {
-        "contents": "QAbstractSpinBox",
-        "trigger": "QAbstractSpinBox"
-    }, {
-        "contents": "QCalendarWidget",
-        "trigger": "QCalendarWidget"
-    }, {
-        "contents": "QCheckBox",
-        "trigger": "QCheckBox"
-    }, {
-        "contents": "QColorDialog",
-        "trigger": "QColorDialog"
-    }, {
-        "contents": "QColumnView",
-        "trigger": "QColumnView"
-    }, {
-        "contents": "QComboBox",
-        "trigger": "QComboBox"
-    }, {
-        "contents": "QCommandLinkButton",
-        "trigger": "QCommandLinkButton"
-    }, {
-        "contents": "QDateEdit",
-        "trigger": "QDateEdit"
-    }, {
-        "contents": "QDateTimeEdit",
-        "trigger": "QDateTimeEdit"
-    }, {
-        "contents": "QDial",
-        "trigger": "QDial"
-    }, {
-        "contents": "QDialog",
-        "trigger": "QDialog"
-    }, {
-        "contents": "QDialogButtonBox",
-        "trigger": "QDialogButtonBox"
-    }, {
-        "contents": "QDockWidget",
-        "trigger": "QDockWidget"
-    }, {
-        "contents": "QDoubleSpinBox",
-        "trigger": "QDoubleSpinBox"
-    }, {
-        "contents": "QErrorMessage",
-        "trigger": "QErrorMessage"
-    }, {
-        "contents": "QFileDialog",
-        "trigger": "QFileDialog"
-    }, {
-        "contents": "QFocusFrame",
-        "trigger": "QFocusFrame"
-    }, {
-        "contents": "QFontComboBox",
-        "trigger": "QFontComboBox"
-    }, {
-        "contents": "QFontDialog",
-        "trigger": "QFontDialog"
-    }, {
-        "contents": "QFrame",
-        "trigger": "QFrame"
-    }, {
-        "contents": "QGraphicsView",
-        "trigger": "QGraphicsView"
-    }, {
-        "contents": "QGroupBox",
-        "trigger": "QGroupBox"
-    }, {
-        "contents": "QHeaderView",
-        "trigger": "QHeaderView"
-    }, {
-        "contents": "QInputDialog",
-        "trigger": "QInputDialog"
-    }, {
-        "contents": "QKeySequenceEdit",
-        "trigger": "QKeySequenceEdit"
-    }, {
-        "contents": "QLCDNumber",
-        "trigger": "QLCDNumber"
-    }, {
-        "contents": "QLabel",
-        "trigger": "QLabel"
-    }, {
-        "contents": "QLineEdit",
-        "trigger": "QLineEdit"
-    }, {
-        "contents": "QListView",
-        "trigger": "QListView"
-    }, {
-        "contents": "QListWidget",
-        "trigger": "QListWidget"
-    }, {
-        "contents": "QMainWindow",
-        "trigger": "QMainWindow"
-    }, {
-        "contents": "QMdiArea",
-        "trigger": "QMdiArea"
-    }, {
-        "contents": "QMdiSubWindow",
-        "trigger": "QMdiSubWindow"
-    }, {
-        "contents": "QMenu",
-        "trigger": "QMenu"
-    }, {
-        "contents": "QMenuBar",
-        "trigger": "QMenuBar"
-    }, {
-        "contents": "QMessageBox",
-        "trigger": "QMessageBox"
-    }, {
-        "contents": "QOpenGLWidget",
-        "trigger": "QOpenGLWidget"
-    }, {
-        "contents": "QPlainTextEdit",
-        "trigger": "QPlainTextEdit"
-    }, {
-        "contents": "QProgressBar",
-        "trigger": "QProgressBar"
-    }, {
-        "contents": "QProgressDialog",
-        "trigger": "QProgressDialog"
-    }, {
-        "contents": "QPushButton",
-        "trigger": "QPushButton"
-    }, {
-        "contents": "QRadioButton",
-        "trigger": "QRadioButton"
-    }, {
-        "contents": "QRubberBand",
-        "trigger": "QRubberBand"
-    }, {
-        "contents": "QScrollArea",
-        "trigger": "QScrollArea"
-    }, {
-        "contents": "QScrollBar",
-        "trigger": "QScrollBar"
-    }, {
-        "contents": "QSizeGrip",
-        "trigger": "QSizeGrip"
-    }, {
-        "contents": "QSlider",
-        "trigger": "QSlider"
-    }, {
-        "contents": "QSpinBox",
-        "trigger": "QSpinBox"
-    }, {
-        "contents": "QSplashScreen",
-        "trigger": "QSplashScreen"
-    }, {
-        "contents": "QSplitter",
-        "trigger": "QSplitter"
-    }, {
-        "contents": "QSplitterHandle",
-        "trigger": "QSplitterHandle"
-    }, {
-        "contents": "QStackedWidget",
-        "trigger": "QStackedWidget"
-    }, {
-        "contents": "QStatusBar",
-        "trigger": "QStatusBar"
-    }, {
-        "contents": "QTabBar",
-        "trigger": "QTabBar"
-    }, {
-        "contents": "QTabWidget",
-        "trigger": "QTabWidget"
-    }, {
-        "contents": "QTableView",
-        "trigger": "QTableView"
-    }, {
-        "contents": "QTableWidget",
-        "trigger": "QTableWidget"
-    }, {
-        "contents": "QTextBrowser",
-        "trigger": "QTextBrowser"
-    }, {
-        "contents": "QTextEdit",
-        "trigger": "QTextEdit"
-    }, {
-        "contents": "QTimeEdit",
-        "trigger": "QTimeEdit"
-    }, {
-        "contents": "QToolBar",
-        "trigger": "QToolBar"
-    }, {
-        "contents": "QToolBox",
-        "trigger": "QToolBox"
-    }, {
-        "contents": "QToolButton",
-        "trigger": "QToolButton"
-    }, {
-        "contents": "QTreeView",
-        "trigger": "QTreeView"
-    }, {
-        "contents": "QTreeWidget",
-        "trigger": "QTreeWidget"
-    }, {
-        "contents": "QUndoView",
-        "trigger": "QUndoView"
-    }, {
-        "contents": "QWidget",
-        "trigger": "QWidget"
-    }, {
-        "contents": "QWizard",
-        "trigger": "QWizard"
-    }, {
-        "contents": "QWizardPage",
-        "trigger": "QWizardPage"
-    }]
+    "completions": [
+        {
+            "trigger": "QAbstractButton",
+            "contents": "QAbstractButton",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QAbstractItemView",
+            "contents": "QAbstractItemView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QAbstractScrollArea",
+            "contents": "QAbstractScrollArea",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QAbstractSlider",
+            "contents": "QAbstractSlider",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QAbstractSpinBox",
+            "contents": "QAbstractSpinBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QCalendarWidget",
+            "contents": "QCalendarWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QCheckBox",
+            "contents": "QCheckBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QColorDialog",
+            "contents": "QColorDialog",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QColumnView",
+            "contents": "QColumnView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QComboBox",
+            "contents": "QComboBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QCommandLinkButton",
+            "contents": "QCommandLinkButton",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QDateEdit",
+            "contents": "QDateEdit",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QDateTimeEdit",
+            "contents": "QDateTimeEdit",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QDial",
+            "contents": "QDial",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QDialog",
+            "contents": "QDialog",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QDialogButtonBox",
+            "contents": "QDialogButtonBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QDockWidget",
+            "contents": "QDockWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QDoubleSpinBox",
+            "contents": "QDoubleSpinBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QErrorMessage",
+            "contents": "QErrorMessage",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QFileDialog",
+            "contents": "QFileDialog",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QFocusFrame",
+            "contents": "QFocusFrame",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QFontComboBox",
+            "contents": "QFontComboBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QFontDialog",
+            "contents": "QFontDialog",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QFrame",
+            "contents": "QFrame",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QGraphicsView",
+            "contents": "QGraphicsView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QGroupBox",
+            "contents": "QGroupBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QHeaderView",
+            "contents": "QHeaderView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QInputDialog",
+            "contents": "QInputDialog",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QKeySequenceEdit",
+            "contents": "QKeySequenceEdit",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QLCDNumber",
+            "contents": "QLCDNumber",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QLabel",
+            "contents": "QLabel",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QLineEdit",
+            "contents": "QLineEdit",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QListView",
+            "contents": "QListView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QListWidget",
+            "contents": "QListWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QMainWindow",
+            "contents": "QMainWindow",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QMdiArea",
+            "contents": "QMdiArea",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QMdiSubWindow",
+            "contents": "QMdiSubWindow",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QMenu",
+            "contents": "QMenu",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QMenuBar",
+            "contents": "QMenuBar",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QMessageBox",
+            "contents": "QMessageBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QOpenGLWidget",
+            "contents": "QOpenGLWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QPlainTextEdit",
+            "contents": "QPlainTextEdit",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QProgressBar",
+            "contents": "QProgressBar",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QProgressDialog",
+            "contents": "QProgressDialog",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QPushButton",
+            "contents": "QPushButton",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QRadioButton",
+            "contents": "QRadioButton",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QRubberBand",
+            "contents": "QRubberBand",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QScrollArea",
+            "contents": "QScrollArea",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QScrollBar",
+            "contents": "QScrollBar",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QSizeGrip",
+            "contents": "QSizeGrip",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QSlider",
+            "contents": "QSlider",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QSpinBox",
+            "contents": "QSpinBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QSplashScreen",
+            "contents": "QSplashScreen",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QSplitter",
+            "contents": "QSplitter",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QSplitterHandle",
+            "contents": "QSplitterHandle",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QStackedWidget",
+            "contents": "QStackedWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QStatusBar",
+            "contents": "QStatusBar",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTabBar",
+            "contents": "QTabBar",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTabWidget",
+            "contents": "QTabWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTableView",
+            "contents": "QTableView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTableWidget",
+            "contents": "QTableWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTextBrowser",
+            "contents": "QTextBrowser",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTextEdit",
+            "contents": "QTextEdit",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTimeEdit",
+            "contents": "QTimeEdit",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QToolBar",
+            "contents": "QToolBar",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QToolBox",
+            "contents": "QToolBox",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QToolButton",
+            "contents": "QToolButton",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTreeView",
+            "contents": "QTreeView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QTreeWidget",
+            "contents": "QTreeWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QUndoView",
+            "contents": "QUndoView",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QWidget",
+            "contents": "QWidget",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QWizard",
+            "contents": "QWizard",
+            "kind": "markup"
+        },
+        {
+            "trigger": "QWizardPage",
+            "contents": "QWizardPage",
+            "kind": "markup"
+        }
+    ]
 }

@@ -20,8 +20,9 @@
         "Default.sublime-commands",
         "QSSEditor.sublime-completions",
         "QSSEditor.sublime-settings",
-        "JQSSEditor_plugin.py",
-        "qsseditor/**"
+        "QSSEditor_plugin.py",
+        ".python-version",
+        "site-packages/**"
     ],
     "bugs": {
         "url": "https://github.com/PyQt5/QSSEditorSublimeText/issues"
