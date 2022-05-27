@@ -25,7 +25,7 @@ class QSSEditorWatcher(sublime_plugin.EventListener):
             return
         logging.getLogger(PLUGIN_NAME).debug('QSSEditorWatcher::on_modified')
         if QSSEditorClient.Client:
-            QSSEditorClient.Client.applyStyleAsync(view, True)
+            QSSEditorClient.Client.applyStyleAsync(view)
 
     def on_load(self, view):
         """
@@ -72,7 +72,7 @@ class QssApplyStyleCommand(sublime_plugin.TextCommand):
 
     def run(self, edit):
         if QSSEditorClient.Client:
-            QSSEditorClient.Client.applyStyleAsync(self.view)
+            QSSEditorClient.Client.applyStyle(self.view)
 
     def is_visible(self):
         return is_support(self.view.file_name(), self.view.syntax())
