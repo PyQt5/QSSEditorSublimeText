@@ -8,9 +8,14 @@ QSS Editor Proxy For Qt Designer
 
 ## Configure
 
-- debug_level=2
-- server_port=61052
-- server_host=127.0.0.1
+```json
+{
+    "auto_apply": true,
+    "server_port": 61052,
+    "server_host": "127.0.0.1",
+    "debug_level": "INFO"
+}
+```
 
 ## Preview
 
