@@ -22,6 +22,7 @@
         "QSSEditor.sublime-settings",
         "QSSEditor_plugin.py",
         ".python-version",
+        "requirements.txt",
         "site-packages/**"
     ],
     "bugs": {
